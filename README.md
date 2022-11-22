@@ -4,6 +4,8 @@ Voici les résultats de notre étude sur la bse de données "DPE logements exist
 
 ## Introduction
 
+Matthieu Delafon --- Upload soon
+
 ## I. La construction d'un indicateur pour quantifier la performance énergétique
 
 ## II. Les limites de cet indicateur
