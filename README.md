@@ -10,10 +10,6 @@ Matthieu Delafon - to be uploaded soon
 
 ## II. Les limites de cet indicateur
 
-Les limites d’un tel indicateurs (Maxence)
-
-La méthode:
-
 A l’aune de la réforme du DPE intervenue en juillet 2021, sa méthode de calcul a évolué. Appelée “3CL” pour “calcul conventionnel des consommations dans les logements” elle a été simplifiée par arrêté ministériel le 8 octobre 2021 afin de prendre en compte 2 critères : l’énergie primaire consommée par le logement (exprimé en kWh.ép/m².shab/an) et les émissions de gaz à effet de serre du logement (exprimées en kg eq CO2/m²/an).
 
 5 critères sont pris en compte dans cette nouvelle méthode de calcul. Tout d’abord, les déperditions de l’enveloppe, issues du manque d'isolation des murs, des combles et du sol du logement. La nouvelle méthode a notamment fait évoluer la valeur du coefficient thermique qui permet de quantifier les déperditions de chaleur d’un matériau isolant afin de mieux tenir compte de l’amélioration des techniques de construction. Sont ensuite prises en compte les déperditions incombant aux flux d’air dans le logement. Elles peuvent être de 2 natures, soit par l’ouverture des fenêtres soit par la perméabilité à l’air du bâtiment ou du logement. Viennent également les consommations issues des auxiliaires de ventilation, et du chauffage de l’eau chaude sanitaire jusque-là non prises en compte dans la précédente méthode de calcul. Autre critère essentiel, l’évaluation des coûts annuels en énergie par logements. La méthode de cet indicateur a été revue par le décret du 8 octobre car trop éloignée de la réalité des coûts de l’électricité et du gaz. La méthode de calcul par tranches successives cumulées a donc été modifiée pour prendre en compte les tranches successives non-cumulées ce qui permet un lissage des estimations du prix des énergies, tout en garantissant l’absence d’effet de seuils, objectif premier de cette méthode. Enfin, le dernier indicateur pris en compte est le confort d’été relatif à la qualité de vie dans le logement face à la chaleur.
