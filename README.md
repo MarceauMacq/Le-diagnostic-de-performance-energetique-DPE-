@@ -37,7 +37,7 @@ Les données DPE permettent, notamment pour les collectivités locales, d’avoi
 
  Ce sont d’ailleurs des visualisations géographiques qui sont proposées en premier sur le site de l’Observatoire DPE. À partir de ces données, on peut par exemple réaliser une carte représentant le pourcentage de passoires thermiques par région avec les données des DPE établis depuis le 1er juillet 2022. 
 
-![carte passoire thermiques](https://user-images.githubusercontent.com/115630234/203339057-68207143-8558-49c6-b194-e7f6826c719a.png)
+![export](https://user-images.githubusercontent.com/115630234/203339992-2102ef2d-f283-48fd-a7c3-0c70f5a9394a.png)
 Source : ADEME - Observatoire DPE (Diagnostic de Performance Énergétique). En ligne : https://observatoire-dpe.ademe.fr/statistiques/outil [consulté le 22 novembre 2022]. Traitement avec Magrit.
 
 ### Des usages prospectifs, en laissant notamment des acteurs privés ou des chercheurs s’emparer de ces données, avec opérations de valorisation ponctuelles
