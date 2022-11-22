@@ -20,6 +20,7 @@ Sont ensuite prises en compte les déperditions incombant aux flux d’air dans 
 La méthode de calcul par tranches successives cumulées a donc été modifiée pour prendre en compte les tranches successives non-cumulées ce qui permet un lissage des estimations du prix des énergies, tout en garantissant l’absence d’effet de seuils, objectif premier de cette méthode. Enfin, le dernier indicateur pris en compte est le confort d’été relatif à la qualité de vie dans le logement face à la chaleur.
 
 ![Image4](https://user-images.githubusercontent.com/118830345/203367696-3134c832-896c-4ce5-a1ca-0d106a8be1da.png)
+
 Source : Institut national de la consommation, 2021
 
 ### Les effets de seuil
