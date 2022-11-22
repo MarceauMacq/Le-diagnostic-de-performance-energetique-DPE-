@@ -27,6 +27,7 @@ Il est cependant possible de redresser cette base de données (en pondérant don
 
 On peut citer une étude menée par l’Observatoire national de la rénovation énergétique (ONRE, “Le parc de logements par classe de performance énergétique au 1er janvier 2022”, juillet 2022), qui utilise cette méthode de redressement, et détaille en annexe cette méthodologie. Il faut ainsi noter que l’étape d'appariement entre la bse de données des DPE et le répertoire Fidéli n’est pas toujours exact, car les logements ne disposent pas d’un identifiant propre. C’est donc selon leurs caractéristiques (taille, date de construction, type de logement, localisation géographique, etc.) que l’association est faite entre un DPE et les informations fiscales du répertoire Fidéli.
 
+![Sans titre](https://user-images.githubusercontent.com/115630234/203338449-3763126e-3587-41c8-88a9-467bedb5bc88.png)
 Source : Fidéli 2020 ; base des DPE décembre 2021-mars 2022 de l’Ademe, calculs SDSE, à partir de ONRE, “Le parc de logements par classe de performance énergétique au 1er janvier 2022”, juillet 2022.
 
 On remarque ainsi que les classes les moins énergivores sont surreprésentées dans les données des DPE, contrairement aux logements ayant les étiquettes D et E. 
