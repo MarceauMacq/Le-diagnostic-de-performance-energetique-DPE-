@@ -37,7 +37,20 @@ Les données DPE permettent, notamment pour les collectivités locales, d’avoi
 
  Ce sont d’ailleurs des visualisations géographiques qui sont proposées en premier sur le site de l’Observatoire DPE. À partir de ces données, on peut par exemple réaliser une carte représentant le pourcentage de passoires thermiques par région avec les données des DPE établis depuis le 1er juillet 2022. 
 
+![carte passoire thermiques](https://user-images.githubusercontent.com/115630234/203339057-68207143-8558-49c6-b194-e7f6826c719a.png)
 Source : ADEME - Observatoire DPE (Diagnostic de Performance Énergétique). En ligne : https://observatoire-dpe.ademe.fr/statistiques/outil [consulté le 22 novembre 2022]. Traitement avec Magrit.
 
 ### Des usages prospectifs, en laissant notamment des acteurs privés ou des chercheurs s’emparer de ces données, avec opérations de valorisation ponctuelles
 Du 11 au 22 juin 2020 a eu lieu le Hackathon RenovAction, dont le but était de laisser des développeurs travailler sur des projets de valorisation des données de l’ADEME, dont les DPE et trouver des solutions pour accompagner la rénovation énergétique. Certains projets présentés proposaient par exemple d’identifier sur un territoire le potentiel de rénovation, et faciliter la mise en relations des acteurs qui auraient besoin d’y être impliqués, par une cartographie de la performance énergétique des bâtiment, croisée avec le potentiel de rénovation de ces mêmes bâtiments, selon leurs caractéristiques.
+
+### Bibliographie/Webographie
+ADEME. DPE Logements existants (depuis juillet 2021). 2022. En ligne : https://data.ademe.fr/datasets/dpe-v2-logements-existants/full [consulté le 21 novembre 2022].
+Freppel, Camille. 37,6 millions de logements en France au 1er janvier 2022 - Insee Focus - 279. 2022. En ligne : https://www.insee.fr/fr/statistiques/6653801 [consulté le 21 novembre 2022].
+La base des diagnostics de performance énergétique (DPE) - data.gouv.fr. 2020. En ligne : https://www.data.gouv.fr/fr/posts/la-base-des-diagnostics-de-performance-energetique-dpe/ [consulté le 21 novembre 2022].
+LOI n° 2010-788 du 12 juillet 2010 portant engagement national pour l’environnement (1).
+Arrêté du 31 mars 2021 relatif aux méthodes et procédures applicables au diagnostic de performance énergétique et aux logiciels l’établissant.
+ADEME - Observatoire DPE (Diagnostic de Performance Énergétique). En ligne : https://observatoire-dpe.ademe.fr/statistiques/outil [consulté le 21 novembre 2022].
+Le parc de logements par classe de performance énergétique au 1er janvier 2022. En ligne : https://www.statistiques.developpement-durable.gouv.fr/le-parc-de-logements-par-classe-de-performance-energetique-au-1er-janvier-2022-0 [consulté le 21 novembre 2022].
+L’Observatoire des diagnostics de performance énergétique – Ademe. En ligne : https://expertises.ademe.fr/batiment/chiffres-cles-observations/lobservatoire-diagnostics-performance-energetique [consulté le 21 novembre 2022].
+Fichiers démographiques sur les logements et les individus | Insee. En ligne : https://www.insee.fr/fr/metadonnees/source/serie/s1019 [consulté le 21 novembre 2022].
+ADEME - Observatoire DPE (Diagnostic de Performance Énergétique). En ligne : https://observatoire-dpe.ademe.fr/statistiques/outil [consulté le 21 novembre 2022].
