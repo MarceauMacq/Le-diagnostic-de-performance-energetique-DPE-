@@ -20,6 +20,7 @@ Sont ensuite prises en compte les déperditions incombant aux flux d’air dans 
 La méthode de calcul par tranches successives cumulées a donc été modifiée pour prendre en compte les tranches successives non-cumulées ce qui permet un lissage des estimations du prix des énergies, tout en garantissant l’absence d’effet de seuils, objectif premier de cette méthode. Enfin, le dernier indicateur pris en compte est le confort d’été relatif à la qualité de vie dans le logement face à la chaleur.
 
 ![Image4](https://user-images.githubusercontent.com/118830345/203367696-3134c832-896c-4ce5-a1ca-0d106a8be1da.png)
+Source : Institut national de la consommation, 2021
 
 ### Les effets de seuil
 Si les effets de seuil ont été lissés dans les différentes méthodes de calcul, il n’en est pas de même pour les classifications au sein du DPE. Sur le graphique ci-contre issu des bases de données de l’Ademe, on remarque un effet de seuil important avant chaque nouveau pallier amenant un changement de classification. Ce fait statistique n’est censé exister sur la représentation de cet indicateur qui se veut objectif car répondant à des critères pré-établis étant les mêmes pour tous les logements. 
