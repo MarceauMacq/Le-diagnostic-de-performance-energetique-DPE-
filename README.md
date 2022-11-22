@@ -24,9 +24,9 @@ La méthode de calcul par tranches successives cumulées a donc été modifiée 
 ### Les effets de seuil
 Si les effets de seuil ont été lissés dans les différentes méthodes de calcul, il n’en est pas de même pour les classifications au sein du DPE. Sur le graphique ci-contre issu des bases de données de l’Ademe, on remarque un effet de seuil important avant chaque nouveau pallier amenant un changement de classification. Ce fait statistique n’est censé exister sur la représentation de cet indicateur qui se veut objectif car répondant à des critères pré-établis étant les mêmes pour tous les logements. 
 
-![Image Github 2](https://user-images.githubusercontent.com/118830345/203366837-4c1e8c53-28d5-49ad-b2fe-2464978b924b.png)
-
 Au-delà d’un questionnement sur la méthode de calcul en elle-même, c’est davantage d’erreur humaine qui serait à pointer du doigt selon de nombreuses organisations. Ces effets de seuil peuvent en effet s’expliquer par l’importance croissante du DPE dans la vente et l’acquisition d’un bien immobilier, il est donc de plus en plus nécessaire et avantageux pour les vendeur et les bailleurs d’obtenir les meilleurs notations possibles, au risque de ne plus pouvoir louer leur bien à court ou moyen terme. Cet effet de seuil se retrouve d’ailleurs uniquement au niveau des catégories les plus basses E, F et G, celles qui représentent le plus gros enjeu de rénovation thermique.
+
+https://github.com/MarceauMacq/Le-diagnostic-de-performance-energetique-DPE-/issues/2#issue-1460168539
 
 ### Les critiques émises par les associations et les professionnels
 Cet indicateur est donc très critiqué. Fin septembre, l’association de consommateur UFC que choisir a rendu publique une enquête réalisée sur le DPE. Ils ont fait évaluer plusieurs maisons 4 ou 5 fois par des diagnostiqueurs différents à chaque fois et le résultat a été assez surprenant. Pour certaines maisons, il y avait jusqu’à 3 classes d’écart (de B à E) ce qui démontre une faiblesse importante dans la méthodologie et la réalisation de ces diagnostics. 
