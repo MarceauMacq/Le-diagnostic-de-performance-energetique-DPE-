@@ -4,7 +4,13 @@ Voici les résultats de notre étude sur la bse de données "DPE logements exist
 
 ## Introduction
 
-Matthieu Delafon - to be uploaded soon
+Dans le contexte actuel de crise de l’énergie concomitant au retour de la guerre en Europe, la sobriété énergétique est un sujet gagnant en popularité. Le gouvernement a donné sa consigne de maintien des thermostats à 19°C, afin de s’assurer l’évitement de coupures de courant lors de l’hiver. Il est aujourd’hui de plus en plus stratégique de n’avoir besoin de consommer que peu. L’isolation thermique est à ce jour l’un des meilleurs moyens pour ce faire, et est encouragée depuis plusieurs années par l’Etat, via notamment la politique du DPE : le diagnostic de performance énergétique. Il convient donc de s’attarder quelques temps sur cet indicateur mis en place par l’administration, dont les modalités ont récemment été modifiées. 
+
+Comme le disait déjà le physicien Kelvin au XIXème siècle, « If you cannot measure it, you cannot improve it ». Il est de même dans la conduite d’une politique publique, qui se doit d’être constamment éprouvée par des chiffres qui en témoignent de l’efficacité, sans quoi sa poursuite ne saurait être justifiée. 
+
+Pour évaluer la pertinence du DPE, nous chercherons principalement à établir la qualité – théorique – de l’indicateur en soi (est-il un véritable reflet de ce qu’il cherche à mesurer ?), la qualité en pratique de cet indicateur, sa fiabilité dans la récolte des données (est-on en pratique capables d’obtenir un indicateur fiable et pertinent, avec des données homogènes sur le territoire ?), et sur la mise en lumière des usages de l’indicateur (permet-il dans les faits aux pouvoirs publics d’avoir une vue sur ce qu’ils cherchent à savoir et peuvent-ils se baser sur ce système ?) ; et ainsi mettre en valeur les critiques et contre-critiques qui pourraient être faites au DPE.
+
+Nous étudierons donc dans un premier temps la construction de cet indicateur (i), pour ensuite en comprendre les limites (ii). Enfin, nous développerons les divers usages de l'indicateur et de la base de données, pour en finaliser l'analyse (iii). 
 
 ## I. La construction d'un indicateur pour quantifier la performance énergétique
 
