@@ -8,6 +8,11 @@ Matthieu Delafon - to be uploaded soon
 
 ## I. La construction d'un indicateur pour quantifier la performance énergétique
 
+### Choix des informations sur le logement et les équipements qui permettent le calcul de l’indicateur
+Le Diagnostic de Performance Énergétique (DPE) renseigne sur la performance énergétique et environnementale d’un logement ou d’un bâtiment, en évaluant sa consommation d’énergie et son impact en matière d’émissions de gaz à effet de serre. Il s’inscrit dans le cadre de la politique énergétique définie au niveau européen afin de réduire la consommation d’énergie des bâtiments et de limiter les émissions de gaz à effet de serre.
+
+Le contenu et les modalités d’établissement du DPE sont réglementés. Le DPE contient des informations sur les caractéristiques du bâtiment ou du logement (surface, orientation, murs, fenêtres, matériaux, etc.) ainsi que sur ses équipements (de chauffage, de production d’eau chaude sanitaire, de ventilation, etc.) 
+
 ## II. Les limites de cet indicateur
 
 ### La méthode calcul
