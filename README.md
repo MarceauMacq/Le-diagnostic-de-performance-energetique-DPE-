@@ -14,7 +14,7 @@ Nous étudierons donc dans un premier temps la construction de cet indicateur (i
 
 ## I. La construction d'un indicateur pour quantifier la performance énergétique
 
-## Le Diagnostic de Performance Énergétique (DPE)
+### Le Diagnostic de Performance Énergétique (DPE)
 Le Diagnostic de Performance Énergétique (DPE) est mis en place en 2006 et né de la directive européenne sur la performance énergétique des bâtiments (DPEB). Le DPE présente une étiquette avec classes A  A jusqu'à G, et un document de référence sur la performance énergétique et environnementale d’un logement ou d’un bâtiment. C’est un indicateur qui permet d’informer et de faire la comparaison sur la performance énergétique d’un bien immobilier, avec pour but de sensibiliser aux économies d’énergie et à la réduction des émissions de GES.
 
 Le DPE contient plusieurs informations sur les caractéristiques du logement (surface, orientation, murs, fenêtres, matériaux, etc.), ainsi qu’une description des équipements. Les consommations calculées correspondent aux consommations conventionnelles pour le chauffage, l’eau chaude sanitaire, le refroidissement, l’éclairage et les auxiliaires de distribution, de génération et de ventilation. Afin de permettre une comparaison entre logements, il est nécessaire de supposer une occupation « conventionnelle » en s’affranchissant des spécificités d’occupation liées à chaque foyer. D’autre informations inclus une estimation de la quantité de gaz à effet de serre émise accompagnée d’un équivalent en nombre de kilomètres parcours en voiture; une évaluation de la quantité d’énergie d’origine renouvelable utilisée; une évaluation de la répartition des déperditions thermiques du logement, de la qualité de l’isolation ou encore du confort d’été. 
@@ -23,14 +23,14 @@ Un DPE a une durée de validité de 10 ans et est obligatoire en cas de vente d�
 
 
 
-## Collection des DPE par l'agence de la transition écologique (ADEME)
+### Collection des DPE par l'agence de la transition écologique (ADEME)
 L’ADEME effectue la collecte des données brutes des diagnostiqueurs depuis le 1er juin 2013, suivant la loi du 12 juillet 2010 portant engagement national pour l’environnement; tout DPE réalisé dans un cadre obligatoire doit être dans la base de données de l’observatoire. Cette loi a servi à fiabiliser le DPE en introduisant des nouvelles exigences, comme l’obligation d’affichage de l’étiquette énergie dans les annonces immobilières depuis le 1er janvier 2011. Cette loi précise une application informatique pour le recueil des diagnostics ainsi que les modalités de transmission et qui permettent à l’Etat d’y avoir accès. L’ADEME n’effectue aucune reprise de données, ce sont des données brutes saisies par les diagnostiqueurs, donc ne peut en aucun cas être tenue responsable de la qualité des données qui lui sont transmises. 
 
 Pour les logements, une réforme est entrée en vigueur le 1er juillet 2021 avec objectif de rendre le DPE plus fiable, lisible et pour mieux prendre en compte les enjeux climatiques. Changement dans le contexte d’accélération de la rénovation énergétique dont le DPE est clé, le DPE est devenu pleinement opposable. La loi votée lors du 23 novembre 2018 portant évolution du logement, de l'aménagement et du numérique (ELAN), introduit les évolutions suivants; révision de la méthode de calcul (3CL); ajout des consommations d’éclairage et d’auxiliaire; et l’intégration d’un double-seuil prenant en compte les émissions de gaz à effet de serre dans l’étiquette DPE. 
 
 Compte tenu de la nature des évolutions, un nouveau modèle de données a été établi. Contrairement à l'ancien observatoire, depuis 2021 des contrôles de cohérence sont en force et en cas de non-conformité le DPE est rejeté. Le contenu et les modalités d’établissement du DPE sont réglementés. 
 
-## Informations sur le logement et les équipements qui permettent le calcul de l’indicateur 
+### Informations sur le logement et les équipements qui permettent le calcul de l’indicateur 
 Dans l’observatoire ADEME il existe 3 types de DPE; DPE v2 - Logement existant, DPE v2 - Logement neuf, et DPE v2 - Tertiaire. Ces jeux de données simplifiés font l'objet d'une manière de saisie et d’informations séparées.
 1. DPE Logement existant (3CL 2020) : ces DPE concernent soit une maison individuelle, un appartement ou un immeuble entier. Avec l'ensemble des données fournies pour réaliser le calcul, on y trouve des informations détaillées, comme le niveau d'isolation des parois, les performances des vitrages et une description détaillée des installations de chauffage/ECS /ventilation/climatisation.
 2. DPE Logement neuf (RT2012/RE2020) : Ils diffèrent des 3CL 2020 car il utilise directement les résultats établis à la construction, de l'étude thermique RT2012 ou environnementale RE2020. Les données d'entrées de simulation ne sont pas obligatoires donc il peut être difficile d'identifier les installations de chauffage ou les performances du bâtiment.
@@ -45,7 +45,7 @@ Données de performance sur les systèmes énergétiques; ventilation et infiltr
 
 Étiquettes; la donnée de sortie principal est la classe énergétique calculée sur la base d'un double seuil énergie/carbone. La classe conso énergie a été utilisée uniquement au démarrage de l'observatoire DPE (version 1 et 1.1) et a été progressivement remplacée par la classe bilan DPE; ces deux données ont été fusionnées dans l'étiquette DPE. La classe émission GES est la classe du logement uniquement sur le critère carbone.
 
-## Contrôles de cohérences 
+### Contrôles de cohérences 
 L’observatoire ADEME contient l’ensemble des DPE effectués par les diagnostiqueurs immobiliers. Chaque DPE déposé est contrôlé avant d'autoriser le dépôt du DPE; premièrement, il est vérifié que le diagnostiqueur est certifié ainsi que le DPE respecte le modèle de données pour la version correspondante. Ces contrôles de cohérence sont effectués en complément avec une stricte vérification que chaque élément correspond à une logique de la méthode de calcul ou si un composant (mur/baie/système de chauffage etc..) sont cohérents. Pour une baie vitrée par exemple, la performance énergétique doit correspondre aux éléments décrits comme l'épaisseur du double vitrage ou le caractère à isolation renforcée de ce vitrage. Ce type de contrôle est réalisé mais, seulement pour un logement existant et uniquement à partir de la version 2.1 du DPE. Il existe des contrôles de cohérences de type bloquants, de type avertissement, et de type notification. Par contre, les données de performance sur l'enveloppe du bâtiment et d’autres indicateurs qualitatifs produits en aval du calcul ne sont pas contrôlés.
 
 
