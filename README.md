@@ -91,6 +91,6 @@ Le parc de logements par classe de performance énergétique au 1er janvier 2022
 
 L’Observatoire des diagnostics de performance énergétique – Ademe. En ligne : https://expertises.ademe.fr/batiment/chiffres-cles-observations/lobservatoire-diagnostics-performance-energetique (consulté le 21 novembre 2022).
 
-Fichiers démographiques sur les logements et les individus | Insee. En ligne : https://www.insee.fr/fr/metadonnees/source/serie/s1019 (consulté le 21 novembre 2022).
+Fichiers démographiques sur les logements et les individus - Insee. En ligne : https://www.insee.fr/fr/metadonnees/source/serie/s1019 (consulté le 21 novembre 2022).
 
 ADEME - Observatoire DPE (Diagnostic de Performance Énergétique). En ligne : https://observatoire-dpe.ademe.fr/statistiques/outil (consulté le 21 novembre 2022).
