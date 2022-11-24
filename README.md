@@ -52,7 +52,10 @@ Dans l’observatoire ADEME il existe 3 types de DPE; DPE v2 - Logement existant
 Les résultats chiffrés du DPE sont obtenus par calcul, incluant plusieurs données essentielles à l'analyse des performances énergétiques des logements, comme par exemple les consommations et montants des dépenses énergétiques. Il existe plusieurs type de données: 
 
 Données générales de contexte (logement et logement neuf); type de bâtiment maison, appartement ou immeuble, surface habitable logement, le surface utile de locaux tertiaires qui est concernée par le DPE, appartement ou immeuble, année de construction du bâtiment, et période de construction du bâtiment. Des paramètres de la méthode de calcul dépendent de la période de construction, donc très important de prendre en compte ce champ dans les analyses.
+
 Données de performance sur l'enveloppe du bâtiment (uniquement pour logement et logement neuf); il est compliqué d’avoir les informations sur toutes les composants d'enveloppe, donc chaque grande catégorie (murs,baies,planchers hauts, planchers bas) est évaluer d’une manière qualitative par niveau de performance, qui dépend du coefficient de transmission thermique (U) "moyen" suivants :
+![Image2](https://github.com/MarceauMacq/Le-diagnostic-de-performance-energetique-DPE-/blob/a374b35885a33cfd0e76854bebf7b0de12b3c818/Image2.png)
+Source : Portail open data de l'ADEME, 2022
 
 Données de performance sur les systèmes énergétiques; ventilation et infiltration d'air, chauffage; type d’émission pour distribuer l'énergie de chauffage (vieux radiateurs hautes températures ou systèmes plus efficaces à basse température); eau chaude sanitaire; climatisation; et énergies renouvelables.
 
