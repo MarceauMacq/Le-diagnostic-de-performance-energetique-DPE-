@@ -21,8 +21,6 @@ Le DPE contient plusieurs informations sur les caractéristiques du logement (su
 
 Un DPE a une durée de validité de 10 ans et est obligatoire en cas de vente d’un bien immobilier, en cas de la construction d’un immeuble, conclusion ou de renouvellement d’un bail, et pour les bâtiments recevant du public (ERP). Le DPE est réalisé par un diagnostiqueur professionnel certifié, qui envoie les résultats à l’ADEME qui ensuite transmets un nombre à 13 chiffres inscrit sur le DPE. 
 
-
-
 ### Collection des DPE par l'agence de la transition écologique (ADEME)
 L’ADEME effectue la collecte des données brutes des diagnostiqueurs depuis le 1er juin 2013, suivant la loi du 12 juillet 2010 portant engagement national pour l’environnement; tout DPE réalisé dans un cadre obligatoire doit être dans la base de données de l’observatoire. Cette loi a servi à fiabiliser le DPE en introduisant des nouvelles exigences, comme l’obligation d’affichage de l’étiquette énergie dans les annonces immobilières depuis le 1er janvier 2011. Cette loi précise une application informatique pour le recueil des diagnostics ainsi que les modalités de transmission et qui permettent à l’Etat d’y avoir accès. L’ADEME n’effectue aucune reprise de données, ce sont des données brutes saisies par les diagnostiqueurs, donc ne peut en aucun cas être tenue responsable de la qualité des données qui lui sont transmises. 
 
@@ -31,13 +29,13 @@ Avant le 1er juillet 2021, plusieurs méthodes de calcul cohabitent : la méthod
 La nouvelle méthode de calcul 3CL devient unique pour l’ensemble du parc immobilier français avec deux facteurs pris en compte; l’énergie primaire du logement et ses émissions de gaz à effet de serre. Les logements classés A et B indiquent des logements “Basse Consommation”, tandis que les logements classés F et G sont considérés comme des passoires thermiques.
 
 Les classes énergétiques :
-#### Classe A : moins de 70 KWh/m² par an et de 6 kg CO2/m² par an ;
-#### Classe B : 71 à 110 KWh/m² par an et 7 à 11 kg CO2/m² par an ;
-#### Classe C : 111 à 180 KWh/m² par an et 12 à 30 kg CO2/m² par an ;
-#### Classe D : 181 à 250 KWh/m² par an et 31 à 50 kg CO2/m² par an ;
-#### Classe E : 251 à 330 KWh/m² par an et 51 à 70 kg CO2/m² par an ;
-#### Classe F : 331 à 420 KWh/m² par an et 71 à 100 kg CO2/m² par an ;
-#### Classe G : plus de 421 KWh/m² par an et de 101 kg CO2/m² par an.
+##### Classe A : moins de 70 KWh/m² par an et de 6 kg CO2/m² par an ;
+##### Classe B : 71 à 110 KWh/m² par an et 7 à 11 kg CO2/m² par an ;
+##### Classe C : 111 à 180 KWh/m² par an et 12 à 30 kg CO2/m² par an ;
+##### Classe D : 181 à 250 KWh/m² par an et 31 à 50 kg CO2/m² par an ;
+##### Classe E : 251 à 330 KWh/m² par an et 51 à 70 kg CO2/m² par an ;
+##### Classe F : 331 à 420 KWh/m² par an et 71 à 100 kg CO2/m² par an ;
+##### Classe G : plus de 421 KWh/m² par an et de 101 kg CO2/m² par an.
 
 Compte tenu de la nature des évolutions, un nouveau modèle de données a été établi. Contrairement à l'ancien observatoire, depuis 2021 des contrôles de cohérence sont en force et en cas de non-conformité le DPE est rejeté. Le contenu et les modalités d’établissement du DPE sont réglementés. 
 
