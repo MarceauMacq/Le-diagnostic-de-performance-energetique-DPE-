@@ -21,6 +21,8 @@ Le DPE contient plusieurs informations sur les caractéristiques du logement (su
 
 Un DPE a une durée de validité de 10 ans et est obligatoire en cas de vente d’un bien immobilier, en cas de la construction d’un immeuble, conclusion ou de renouvellement d’un bail, et pour les bâtiments recevant du public (ERP). Le DPE est réalisé par un diagnostiqueur professionnel certifié, qui envoie les résultats à l’ADEME qui ensuite transmets un nombre à 13 chiffres inscrit sur le DPE. 
 
+![Image1](https://github.com/MarceauMacq/Le-diagnostic-de-performance-energetique-DPE-/blob/d1bfa5f8957c08e97552271e4eddf9a4e6c7a536/Image1.png)
+
 ### Collection des DPE par l'agence de la transition écologique (ADEME)
 L’ADEME effectue la collecte des données brutes des diagnostiqueurs depuis le 1er juin 2013, suivant la loi du 12 juillet 2010 portant engagement national pour l’environnement; tout DPE réalisé dans un cadre obligatoire doit être dans la base de données de l’observatoire. Cette loi a servi à fiabiliser le DPE en introduisant des nouvelles exigences, comme l’obligation d’affichage de l’étiquette énergie dans les annonces immobilières depuis le 1er janvier 2011. Cette loi précise une application informatique pour le recueil des diagnostics ainsi que les modalités de transmission et qui permettent à l’Etat d’y avoir accès. L’ADEME n’effectue aucune reprise de données, ce sont des données brutes saisies par les diagnostiqueurs, donc ne peut en aucun cas être tenue responsable de la qualité des données qui lui sont transmises. 
 
