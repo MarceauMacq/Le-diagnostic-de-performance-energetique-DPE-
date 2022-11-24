@@ -31,13 +31,13 @@ Avant le 1er juillet 2021, plusieurs méthodes de calcul cohabitent : la méthod
 La nouvelle méthode de calcul 3CL devient unique pour l’ensemble du parc immobilier français avec deux facteurs pris en compte; l’énergie primaire du logement et ses émissions de gaz à effet de serre. Les logements classés A et B indiquent des logements “Basse Consommation”, tandis que les logements classés F et G sont considérés comme des passoires thermiques.
 
 Les classes énergétiques :
-Classe A : moins de 70 KWh/m² par an et de 6 kg CO2/m² par an ;
-Classe B : 71 à 110 KWh/m² par an et 7 à 11 kg CO2/m² par an ;
-Classe C : 111 à 180 KWh/m² par an et 12 à 30 kg CO2/m² par an ;
-Classe D : 181 à 250 KWh/m² par an et 31 à 50 kg CO2/m² par an ;
-Classe E : 251 à 330 KWh/m² par an et 51 à 70 kg CO2/m² par an ;
-Classe F : 331 à 420 KWh/m² par an et 71 à 100 kg CO2/m² par an ;
-Classe G : plus de 421 KWh/m² par an et de 101 kg CO2/m² par an.
+#### Classe A : moins de 70 KWh/m² par an et de 6 kg CO2/m² par an ;
+#### Classe B : 71 à 110 KWh/m² par an et 7 à 11 kg CO2/m² par an ;
+#### Classe C : 111 à 180 KWh/m² par an et 12 à 30 kg CO2/m² par an ;
+#### Classe D : 181 à 250 KWh/m² par an et 31 à 50 kg CO2/m² par an ;
+#### Classe E : 251 à 330 KWh/m² par an et 51 à 70 kg CO2/m² par an ;
+#### Classe F : 331 à 420 KWh/m² par an et 71 à 100 kg CO2/m² par an ;
+#### Classe G : plus de 421 KWh/m² par an et de 101 kg CO2/m² par an.
 
 Compte tenu de la nature des évolutions, un nouveau modèle de données a été établi. Contrairement à l'ancien observatoire, depuis 2021 des contrôles de cohérence sont en force et en cas de non-conformité le DPE est rejeté. Le contenu et les modalités d’établissement du DPE sont réglementés. 
 
